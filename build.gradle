@@ -35,6 +35,9 @@ allprojects {
 		if (version.endsWith('-SNAPSHOT')) {
 			maven { url "https://repo.spring.io/snapshot" }
 		}
+		if{
+			maven { url 'https://jitpack.io' }
+		}
 	}
 
 	configurations.all {
@@ -45,3 +48,4 @@ allprojects {
 tasks.named("checkstyleNohttp").configure {
 	maxHeapSize = "1536m"
 }
+
