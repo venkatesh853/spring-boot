@@ -1,51 +1,34 @@
-plugins {
-	id "base"
-	id "org.jetbrains.kotlin.jvm" apply false // https://youtrack.jetbrains.com/issue/KT-30276
-	id "io.spring.nohttp" version "0.0.10"
+apply plugin: 'java'
+apply plugin: 'maven-publish'
+
+group = 'com.github.jitpack'
+version = '2.0'
+
+sourceCompatibility = 1.8 // java 8
+targetCompatibility = 1.8
+
+repositories {
+  mavenCentral()
 }
 
-description = "Spring Boot Build"
-
-defaultTasks 'build'
-
-nohttp {
-	allowlistFile = project.file("src/nohttp/allowlist.lines")
-	source.exclude "**/bin/**"
-	source.exclude "**/build/**"
-	source.exclude "**/out/**"
-	source.exclude "**/target/**"
-	source.exclude "**/.settings/**"
-	source.exclude "**/.classpath"
-	source.exclude "**/.project"
-	source.exclude "spring-boot-project/spring-boot-tools/spring-boot-buildpack-platform/src/test/resources/org/springframework/boot/buildpack/platform/docker/export.tar"
+dependencies {
+  implementation 'com.google.guava:guava:29.0-jre'
 }
 
-check {
-	dependsOn checkstyleNohttp
+java {
+	withSourcesJar()
+	withJavadocJar()
 }
 
-allprojects {
-	group "org.springframework.boot"
-
-	repositories {
-		mavenCentral()
-		if (version.contains('-')) {
-			maven { url "https://repo.spring.io/milestone" }
-		}
-		if (version.endsWith('-SNAPSHOT')) {
-			maven { url "https://repo.spring.io/snapshot" }
-		}
-		if{
-			maven { url 'https://jitpack.io' }
-		}
-	}
-
-	configurations.all {
-		resolutionStrategy.cacheChangingModulesFor 0, "minutes"
-	}
+publishing {
+    publications {
+        maven(MavenPublication) {
+		from components.java
+        }
+    }
 }
 
-tasks.named("checkstyleNohttp").configure {
-	maxHeapSize = "1536m"
+wrapper {
+    gradleVersion = "7.3.3"
+    distributionType = Wrapper.DistributionType.ALL
 }
-
