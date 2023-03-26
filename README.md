@@ -1,23 +1,3 @@
-# gradle-simple
-
-[![](https://jitpack.io/v/jitpack/gradle-simple.svg?label=Release)](https://jitpack.io/#jitpack/gradle-simple) [![](https://jitci.com/gh/jitpack/gradle-simple/svg)](https://jitci.com/gh/jitpack/gradle-simple)
-
-Example Gradle project producing a single jar. Uses the `maven` plugin to publish the jar to the local repository.
-
-[https://jitpack.io/#jitpack/gradle-simple](https://jitpack.io/#jitpack/gradle-simple)
-
-To install the library add: 
- 
-   ```gradle
-   repositories { 
-        jcenter()
-        maven { url "https://jitpack.io" }
-   }
-   dependencies {
-         implementation 'com.github.jitpack:gradle-simple:1.1'
-   }
-   ```  
-   
 # Building Java Projects with Maven
 This guide walks you through using Maven to build a simple Java project.
 
@@ -270,5 +250,3 @@ Here’s the completed `pom.xml` file:
 + To run this project run the following command.
 
     `java -cp target/jb-hello-world-maven-0.1.0.jar hello.HelloWorld`
-   
-
