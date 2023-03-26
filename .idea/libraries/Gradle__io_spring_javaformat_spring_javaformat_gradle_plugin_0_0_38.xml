@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.spring.javaformat:spring-javaformat-gradle-plugin:0.0.38">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.javaformat/spring-javaformat-gradle-plugin/0.0.38/23ddca79edea7e42a011d2fcbf2a35cfa9c04c44/spring-javaformat-gradle-plugin-0.0.38.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.javaformat/spring-javaformat-gradle-plugin/0.0.38/274ac4a934dddc69f3e51de7ec8b9f49809845a4/spring-javaformat-gradle-plugin-0.0.38-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

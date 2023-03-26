@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.infinispan.protostream:protostream-types:4.6.1.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.infinispan.protostream/protostream-types/4.6.1.Final/d77b0ab7d0b2f0f4e867f62aaa369ba111f49076/protostream-types-4.6.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.infinispan.protostream/protostream-types/4.6.1.Final/926fab0bc451af362dbb30efa5dc7dc88ed6c13a/protostream-types-4.6.1.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

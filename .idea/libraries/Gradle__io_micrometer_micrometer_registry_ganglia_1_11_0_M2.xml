@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micrometer:micrometer-registry-ganglia:1.11.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-ganglia/1.11.0-M2/b482a78e5ef09d2d82112a09e15ac1c4e892fe69/micrometer-registry-ganglia-1.11.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-ganglia/1.11.0-M2/8aa3edcd0f63232b4fd8bbc521896e82cdd46f7e/micrometer-registry-ganglia-1.11.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

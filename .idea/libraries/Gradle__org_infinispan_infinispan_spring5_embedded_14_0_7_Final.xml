@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.infinispan:infinispan-spring5-embedded:14.0.7.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.infinispan/infinispan-spring5-embedded/14.0.7.Final/5d10637e62c930fc86b04ea71548c41c0d984e7a/infinispan-spring5-embedded-14.0.7.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.infinispan/infinispan-spring5-embedded/14.0.7.Final/a961b3c875f2779b324c81cf2807e6f7d6c7ff55/infinispan-spring5-embedded-14.0.7.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

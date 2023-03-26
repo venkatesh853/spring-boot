@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micrometer:micrometer-tracing-bridge-otel:1.1.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-tracing-bridge-otel/1.1.0-M2/9fbeb5b18c94d4f366c45eb9fb6a55d51824b34c/micrometer-tracing-bridge-otel-1.1.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-tracing-bridge-otel/1.1.0-M2/91eb31f77948eff32be1d8ccf945fefdafce86cf/micrometer-tracing-bridge-otel-1.1.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

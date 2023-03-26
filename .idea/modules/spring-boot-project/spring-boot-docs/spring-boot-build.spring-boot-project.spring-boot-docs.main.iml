@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-boot-project:spring-boot-docs:main" external.linked.project.path="$MODULE_DIR$/../../../../spring-boot-project/spring-boot-docs" external.root.project.path="$MODULE_DIR$/../../../.." external.system.id="GRADLE" external.system.module.group="org.springframework.boot" external.system.module.type="sourceSet" external.system.module.version="3.1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="5" platform="JVM 1.8" allPlatforms="JVM [1.8]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files -Werror -Xsuppress-version-warnings" />
+        </compilerSettings>
+        <compilerArguments>
+          <flagArguments>
+            <flagArg name="noReflect" arg="true" />
+            <flagArg name="noStdlib" arg="true" />
+          </flagArguments>
+          <stringArguments>
+            <stringArg name="classpath">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-classic/1.4.6/61f81fe5d996f077f90a08ff5ca75d01dbe752c3/logback-classic-1.4.6.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP/5.0.1/a74c7f0a37046846e88d54f7cb6ea6d565c65f9c/HikariCP-5.0.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-graphite/1.11.0-M2/c212aa5ecc23359c206704391333681dfdf2b78c/micrometer-registry-graphite-1.11.0-M2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-jmx/1.11.0-M2/2585968a18a09c8ed561418c2eb20ad4ac09c023/micrometer-registry-jmx-1.11.0-M2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/5.0.1/644dad1023b7a0ab4fcdac045256ee4f0a0b9723/spring-batch-core-5.0.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-core/1.11.0-M2/b41ce0e20598f141177f0d089ed10ec62e51d19e/micrometer-core-1.11.0-M2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor.netty/reactor-netty-http/1.1.5/fc5428cce2405e96b603454fc26727b430ec81fd/reactor-netty-http-1.1.5.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/2.3.4.Final/1116e3a9dcfcc84baefa3a433f7a8526182f9088/undertow-core-2.3.4.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.containers/jersey-container-servlet-core/3.1.1/9be14c0c53e3e86946a63cdec523ed12e689e61e/jersey-container-servlet-core-3.1.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-server/3.1.1/1d2732562cd241c9093d892fca83ba0e32d0ce39/jersey-server-3.1.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-envers/3.1.0-M3/f7c4e48d12b69604ab0c7f9742e42c58f27d1dc8/spring-data-envers-3.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-jpa/3.1.0-M3/1a7d19f91a299888a40c6669576ce90fa1596632/spring-data-jpa-3.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-client/3.1.1/5b9598393a461e16ad517a4379650be33410c07f/jersey-client-3.1.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.jersey.core/jersey-common/3.1.1/8e35d8da05e68c355732acd0a655e94aed703709/jersey-common-3.1.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.annotation/jakarta.annotation-api/2.1.1/48b9bda22b091b1f48b13af03fe36db3be6e1ae3/jakarta.annotation-api-2.1.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.jms/jakarta.jms-api/3.1.0/e194cf91a3f908e4846542849ac11a8e0b3c68ad/jakarta.jms-api-3.1.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.orm/hibernate-jcache/6.1.7.Final/d2d639d912fe77adccfbd405f91bd5fa209fdb2d/hibernate-jcache-6.1.7.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.orm/hibernate-envers/6.1.7.Final/a1e7aa1544778e93d5b73ab98d739cc5d23a2ecc/hibernate-envers-6.1.7.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.orm/hibernate-core/6.1.7.Final/343f47b34c96fe9c44bf9b219a7b3c5d6d2fc90e/hibernate-core-6.1.7.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.persistence/jakarta.persistence-api/3.1.0/66901fa1c373c6aff65c13791cc11da72060a8d6/jakarta.persistence-api-3.1.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.servlet/jakarta.servlet-api/6.0.0/abecc699286e65035ebba9844c03931357a6a963/jakarta.servlet-api-6.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.validation/jakarta.validation-api/3.0.2/92b6631659ba35ca09e44874d3eb936edfeee532/jakarta.validation-api-3.0.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit/2.70.0/4b068e6c05abb1740e8fabaf040e4eaf1e4c0e4d/htmlunit-2.70.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.client5/httpclient5/5.2.1/c900514d3446d9ce5d9dbd90c21192048125440/httpclient5-5.2.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-dbcp2/2.9.0/16d808749cf3dac900c073dd834b5e288562a59c/commons-dbcp2-2.9.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.kafka/spring-kafka-test/3.0.5/86d47461f4443664522c32d629a663ae8e332711/spring-kafka-test-3.0.5.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-streams-test-utils/3.4.0/778b7d5ef0b97a1ce30da0df702de3c24a520bca/kafka-streams-test-utils-3.4.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-streams/3.4.0/9ee9b42d89f9bbd6f19bc4fce4407d5d240a7d48/kafka-streams-3.4.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-to-slf4j/2.20.0/d37f81f8978e2672bc32c82712ab4b3f66624adc/log4j-to-slf4j-2.20.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat.embed/tomcat-embed-core/10.1.7/d486363d49c6536556af38d7e1052d56a39319e5/tomcat-embed-core-10.1.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.assertj/assertj-core/3.24.2/ebbf338e33f893139459ce5df023115971c2786f/assertj-core-3.24.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cache2k/cache2k-spring/2.6.1.Final/cd312efb1645de91bdd8571b98273cb0acf52d15/cache2k-spring-2.6.1.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.restdocs/spring-restdocs-restassured/3.0.0/455705e75b4917a74252898fa73c85b8b189366d/spring-restdocs-restassured-3.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured/5.3.0/8d59681728713ee2f029d1d30781ec4f181b1687/rest-assured-5.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/xml-path/5.3.0/8a9672fbd0bb2528d1a0d9e00bf4e41de6b20151/xml-path-5.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-xml/4.0.10/3062cb8a84f99c6700052ca68fb809d2629ade39/groovy-xml-4.0.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/json-path/5.3.0/f389c8bad3550779013822687ac3138b9594efc/json-path-5.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy-json/4.0.10/2e86f29ca6255cc96a484cd89b89c2ad09f0fbd1/groovy-json-4.0.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.rest-assured/rest-assured-common/5.3.0/5de8e4da01e54b57f19373889429b99b1f741416/rest-assured-common-5.3.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.groovy/groovy/4.0.10/f28554fcb53d9dbb62b4817ac1a36858e09743f3/groovy-4.0.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.8.10/7c002ac41f547a82e81dfebd2a20577a738dbf3f/kotlin-stdlib-jdk8-1.8.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.18.1/396cfa1b54688a3c661ba16b6cac7ace49a226a7/jooq-3.18.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mockito/mockito-core/4.11.0/ce5226440c2ee78915716d4ce3d10aed2dbf26fb/mockito-core-4.11.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mongodb/mongodb-driver-sync/4.9.0/c998d1bd3dcbaaef18643c47799a2242f290051c/mongodb-driver-sync-4.9.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.postgresql/r2dbc-postgresql/1.0.1.RELEASE/203f87ead3fb2f0753be903d188a8084e4d48a1a/r2dbc-postgresql-1.0.1.RELEASE.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.quartz-scheduler/quartz/2.3.2/18a6d6b5a40b77bd060b34cb9f2acadc4bae7c8a/quartz-2.3.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/2.0.7/a48f44aeaa8a5ddc347007298a28173ac1fbbd8b/jul-to-slf4j-2.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-r2dbc/3.1.0-M3/6d38f1ef2a00e803c8d10d4592353aa4c896e5ea/spring-data-r2dbc-3.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-orm/6.0.7/7e9220ca1c760920b4c9e21ac1011692eaf3240f/spring-orm-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jdbc/6.0.7/a9ae58a5b4d1e233514528dff570b6601fd5eec6/spring-jdbc-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jms/6.0.7/a802e578863869ceb70f596f10ef2231618efd39/spring-jms-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.graphql/spring-graphql-test/1.2.0-M1/a88ebd0f4595cd501f7e046e8cf7b65e504e54a4/spring-graphql-test-1.2.0-M1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.restdocs/spring-restdocs-mockmvc/3.0.0/d6b6ac3817f68f2dcf9ad4db4e00836776abb1ea/spring-restdocs-mockmvc-3.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.restdocs/spring-restdocs-webtestclient/3.0.0/671307a91b382e690191eb40dcc44250092d373a/spring-restdocs-webtestclient-3.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-test/6.1.0-M2/f02f73b08d4bda383dd893e5531745b4dab67107/spring-security-test-6.1.0-M2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/6.0.7/c0734c4b554ee485b80cdf193f9b9f5e201d29ae/spring-test-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-couchbase/5.1.0-M3/d01507f4d3c90f57bbc316f868d42203ed51d912/spring-data-couchbase-5.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webflux/6.0.7/d5517bedf8d8c660edc769047280bb918a4e0e45/spring-webflux-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.ws/spring-ws-test/4.0.2/4192fb53cf54cd9298ba08bb7ef918ec299e321/spring-ws-test-4.0.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.ws/spring-ws-core/4.0.2/615929eeed9d6a1556bc848b2297b8fc330ee79e/spring-ws-core-4.0.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/6.0.7/2fdde1a0d3706a85fe318a4f6ebffb4f4f7c4c6d/spring-webmvc-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-websocket/6.0.7/406a743c727d0e06a00effc32acbda7fee2c3346/spring-websocket-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-client/6.1.0-M2/49ec31fb69ab97629f599bbd69b18150c42d8de2/spring-security-oauth2-client-6.1.0-M2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-web/6.1.0-M2/17e07e9f759fc319d9bfd9c1da5714b76a8eb91/spring-security-web-6.1.0-M2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-oauth2-core/6.1.0-M2/78056b4ba39cb42b84edbd30d6c1f4138fe3b5f9/spring-security-oauth2-core-6.1.0-M2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/6.0.7/43f8ac9c46c15d57fca00fc81ce1f2849f6cecb9/spring-web-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.amqp/spring-rabbit/3.0.3/2507340f8a8335f14b4f7b1e35bf89f977ccafd/spring-rabbit-3.0.3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.amqp/spring-amqp/3.0.3/909fb26c11ea7ab169189e6619e24ec59d7ad3fc/spring-amqp-3.0.3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-cassandra/4.1.0-M3/bd9cc67f7c330c6594748e3a6cc73cf0ed76bc8b/spring-data-cassandra-4.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-elasticsearch/5.1.0-M3/4fefc7e5288e14111388283df1c302e86de062a0/spring-data-elasticsearch-5.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-ldap/3.1.0-M3/bcc536434ad07b0ab11fc4e380eb2b5a4367f039/spring-data-ldap-3.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-mongodb/4.1.0-M3/97b9d0f558b22eca79ce03198123410b79996b93/spring-data-mongodb-4.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-neo4j/7.1.0-M3/a63370254b204ec396caa4dda5501fe25270226a/spring-data-neo4j-7.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/3.1.0-M3/f3f44113871f2a56a834356038ee69755859dd9f/spring-data-redis-3.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.graphql/spring-graphql/1.2.0-M1/fbbd5b6b8e61757c8f863f0fb9fcdeb84f5fce7b/spring-graphql-1.2.0-M1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.kafka/spring-kafka/3.0.5/83d82bc2d71d3c7ccc1159a550d594a367e9b8c8/spring-kafka-3.0.5.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-config/6.1.0-M2/d52121af5ab8e9162eacfac9aa2eb6d5ee3addc4/spring-security-config-6.1.0-M2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testcontainers/junit-jupiter/1.17.6/94e9894bc665909e208959390ea6540309ce231e/junit-jupiter-1.17.6.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testcontainers/neo4j/1.17.6/28e51e2adea3bf29740099e8513ff1c8e56a1153/neo4j-1.17.6.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-params/5.9.2/bc2765afb7b85b583c710dd259a11c6b8c39e912/junit-jupiter-params-5.9.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter-api/5.9.2/fed843581520eac594bc36bb4b0f55e7b947dda9/junit-jupiter-api-5.9.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-launcher/1.9.2/38e0bfad8c57d4cd1a8f27926c25ffe9543068d6/junit-platform-launcher-1.9.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-engine/1.9.2/40aeef2be7b04f96bb91e8b054affc28b7c7c935/junit-platform-engine-1.9.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.2/6f9f8621d8230cd38aa42e58ccbc0c00569131ce/junit-platform-commons-1.9.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.jupiter/junit-jupiter/5.9.2/26c586fbe0ebd81b48c9f11f0d998124248697ae/junit-jupiter-5.9.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.yaml/snakeyaml/1.33/2cd0a87ff7df953f810c344bdf2fe3340b954c69/snakeyaml-1.33.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.neo4j/neo4j-cypher-dsl/2023.0.0/70c983f400096d8e3a7f30245955ada63931fb64/neo4j-cypher-dsl-2023.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apiguardian/apiguardian-api/1.1.0/fc9dff4bb36d627bdc553de77e1f17efd790876c/apiguardian-api-1.1.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mchange/c3p0/0.9.5.5/37dfc3021e5589d65ff2ae0becf811510b87ab01/c3p0-0.9.5.5.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testcontainers/testcontainers/1.17.6/11b28972d2d8bddd5a7d3b6e21016fbe13bc8e8b/testcontainers-1.17.6.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.21/4ec95b60d4e86b5c95a0e919cb172a0af98011ef/commons-compress-1.21.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.inject/jakarta.inject-api/2.0.1/4c28afe1991a941d7702fe1362c365f0a8641d1e/jakarta.inject-api-2.0.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context-support/6.0.7/8761cfa49054ecc46259e3a79f58fb6d1d73dd9c/spring-context-support-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-relational/3.1.0-M3/90757ee8caa3290b68f3e446302721a393b8c60/spring-data-relational-3.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-keyvalue/3.1.0-M3/1bd1ccb89058072c53f008c33983c33fc9998c5c/spring-data-keyvalue-3.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/6.1.0-M2/f278f76deca49bbec87526b4725f1fb4a105e5cf/spring-security-core-6.1.0-M2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.ws/spring-xml/4.0.2/84d037a130a79f0b62a69665503dc05a1005498a/spring-xml-4.0.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/6.0.7/439a4cc348c87014fa7ae7d20c6498a10283a6cf/spring-context-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-messaging/6.0.7/716f7237ef13b847bed621f9797f76a273a89527/spring-messaging-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-r2dbc/6.0.7/123a8fd0559aed5b079f516b2e8d4418b0e90dca/spring-r2dbc-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.ldap/spring-ldap-core/3.0.1/ade537cf91213952966685679423b59ca2cfb77f/spring-ldap-core-3.0.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-tx/6.0.7/d062bbaf50e4acb24edda5202a9732fee38e978b/spring-tx-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/6.0.7/d5b0bb68c88a4027d8e5d42f438088db86f29660/spring-aop-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/3.1.0-M3/28233b9456c304324dfff66560dbd495a8eef79f/spring-data-commons-3.1.0-M3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-oxm/6.0.7/9e4a7ca5bb3acaaf0eab97b52951f49e805ddfd1/spring-oxm-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/6.0.7/1abeec454cd1a2a40cff11ed5c388228eb021871/spring-beans-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-infrastructure/5.0.1/81c7eb50cd147919835f219e68b040bd34fa638f/spring-batch-infrastructure-5.0.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/6.0.7/c9c93c88d35d02a0291ad7051065544fc0b674a3/spring-expression-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/6.0.7/33ad624acd55c846ec56fd65bd954b23fb2681b3/spring-core-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.8.10/cb726a23c808a850a43e7d6b9d1ba91b02fe9f05/kotlin-stdlib-jdk7-1.8.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.8.10/6d5560a229477df9406943d5feda5618e98eb64c/kotlin-stdlib-1.8.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.13.2/8ac9e16d933b6fb43bc7f576336b8f4d7eb5ba12/junit-4.13.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datastax.oss/java-driver-query-builder/4.15.0/308cebab44e688c05ab61390005500d8db231ecd/java-driver-query-builder-4.15.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datastax.oss/java-driver-core/4.15.0/aedf50875f5be8589770957735d37d2580ca5ac5/java-driver-core-4.15.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.14.2/1e71fddbc80bb86f71a6345ac1e8ab8a00e7134/jackson-databind-2.14.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.14.2/f804090e6399ce0cf78242db086017512dd71fcc/jackson-core-2.14.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-api/3.2.13/5817ef8f770cb7e740d590090bf352df9491f3c1/docker-java-api-3.2.13.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.14.2/a7aae9525864930723e3453ab799521fdfd9d873/jackson-annotations-2.14.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy/1.14.2/a7c3d712ff36c0af519410def9c17752166e1a18/byte-buddy-1.14.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.bytebuddy/byte-buddy-agent/1.14.2/8d54fab7a53b306e4ce3459a50521295b60b2ac1/byte-buddy-agent-1.14.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cache2k/cache2k-api/2.6.1.Final/6afd23d7897fff56515f0cefa6a846bdebe10bce/cache2k-api-2.6.1.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/co.elastic.clients/elasticsearch-java/8.6.2/ba36fe2c48866940a21091edd1f0e87ebaa70bc3/elasticsearch-java-8.6.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.elasticsearch.client/elasticsearch-rest-client/8.6.2/62405b8a99efcad0423ac92e3ff42a222a96cd46/elasticsearch-rest-client-8.6.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.14/6662758a1f1cb1149cf916bdac28332e0902ec44/httpmime-4.5.14.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.14/1194890e6f56ec29177673f2f12d0b8e627dec98/httpclient-4.5.14.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.15/49d94806b6e3dc933dacbd8acb0fdbab8ebd1e5d/commons-codec-1.15.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.12.0/c6842c86792ff03b9f1d1fe2aab8dc23aa6c6f0e/commons-lang3-3.12.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-pool2/2.11.1/8970fd110c965f285ed4c6e40be7630c62db6f68/commons-pool2-2.11.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.couchbase.client/java-client/3.4.4/5e83ab0b8455d2f04c2ef3f093b77ed196bd6e1e/java-client-3.4.4.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.graphql-java/graphql-java/20.1/f9df38134a7fb946e5fa76894e2338c3e21638f7/graphql-java-20.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/2.2/3f2bd07716a31c395e2837254f37f21f0f0ab24b/hamcrest-core-2.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest/2.2/1820c0968dba3a11a1b30669bb1f01978a91dedc/hamcrest-2.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpasyncclient/4.1.5/cd18227f1eb8e9a263286c1d7362ceb24f6f9b32/httpasyncclient-4.1.5.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.16/51cf043c87253c9f58b539c9f7e44c8894223850/httpcore-4.4.16.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore-nio/4.4.16/cd21c80a9956be48c4c1cfd2f594ba02857d0927/httpcore-nio-4.4.16.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5-h2/5.2.1/2d992fabc3cda7c9f4be58990cda264588733ad3/httpcore5-h2-5.2.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents.core5/httpcore5/5.2.1/d3c4651d321df233ee7278da66657aa95cfe612f/httpcore5-5.2.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.xml.bind/jakarta.xml.bind-api/4.0.0/bbb399208d288b15ec101fa4fcfc4bd77cedc97a/jakarta.xml.bind-api-4.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.xml.soap/jakarta.xml.soap-api/3.0.0/3a665c1025c20355ef8a56016493c435e6901cbb/jakarta.xml.soap-api-3.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.xml.messaging.saaj/saaj-impl/3.0.0/592e76b886471149217e4090b02e3d36fd702777/saaj-impl-3.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.activation/jakarta.activation-api/2.1.1/88c774ab863a21fb2fc4219af95379fafe499a31/jakarta.activation-api-2.1.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.parsson/parsson/1.0.0/2a3b84d40ad99500d8032312bb6b03c35018dcca/parsson-1.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.json/jakarta.json-api/2.1.1/9fb92ec0ea12d3ef92d5eeca351b946cdb06317e/jakarta.json-api-2.1.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.transaction/jakarta.transaction-api/2.0.1/51a520e3fae406abb84e2e1148e6746ce3f80a1a/jakarta.transaction-api-2.0.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/jakarta.ws.rs/jakarta.ws.rs-api/3.1.0/15ce10d249a38865b58fc39521f10f29ab0e3363/jakarta.ws.rs-api-3.1.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.cache/cache-api/1.1.1/c56fb980eb5208bfee29a9a5b9d951aba076bd91/cache-api-1.1.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.threads/jboss-threads/3.5.0.Final/dd23d4788b3eafe9597ef3fe028e46ceb293ba8d/jboss-threads-3.5.0.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.xnio/xnio-api/3.8.8.Final/1ba9c8b9a8dea1c6cd656155943e6d4c2c631fa7/xnio-api-3.8.8.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wildfly.client/wildfly-client-config/1.0.1.Final/2a803b23c40a0de0f03a90d1fd3755747bc05f4b/wildfly-client-config-1.0.1.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.logging/jboss-logging/3.5.0.Final/c19307cc11f28f5e2679347e633a3294d865334d/jboss-logging-3.5.0.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jayway.jsonpath/json-path/2.7.0/f9d7d9659f2694e61142046ff8a216c047f263e8/json-path-2.7.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nimbusds/oauth2-oidc-sdk/9.43.1/a25abc8ea0a91296063d55dbb57b698f81a4649c/oauth2-oidc-sdk-9.43.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minidev/json-smart/2.4.10/91cb329e9424bf32131eeb1ce2d17bf31b9899bc/json-smart-2.4.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka_2.13/3.4.0/721eabebf4394a241d91426feef33109404dbd9/kafka_2.13-3.4.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka_2.13/3.4.0/27d53d859ccd77e0a1e845f396da891fba038c00/kafka_2.13-3.4.0-test.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/3.4.0/69aebfca9da335f6617f9e5e7a4b45f16e8c86b5/kafka-clients-3.4.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-clients/3.4.0/2629168e75fb0eb8a26108ae928f77d148c57c07/kafka-clients-3.4.0-test.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-metadata/3.4.0/cecca5f2ac676cb56fa465a471d3152a23f0f3d2/kafka-metadata-3.4.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.4.6/c4eb386f0fe83d61c2e8a91df50bb07e7ea95140/logback-core-1.4.6.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mongodb/mongodb-driver-core/4.9.0/cb0bcb358fd42b350c68581cac5bb5421ef0cf/mongodb-driver-core-4.9.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mongodb/bson/4.9.0/d0f5324745513edd06fa20981f33be53f589d1ef/bson-4.9.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.neo4j.driver/neo4j-java-driver/5.5.0/645b2cdaedfb89c41e34e3e73060ad67578ee263/neo4j-java-driver-5.5.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.r2dbc/r2dbc-spi/1.0.0.RELEASE/e3d15b2d27fdb8fdb76a181b21d5c752adf1d165/r2dbc-spi-1.0.0.RELEASE.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-graphite/4.2.18/c53678cf521b237baf6fccdde60e239bea997b8/metrics-graphite-4.2.18.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/amqp-client/5.17.0/aba0043dc7512f4e06c2cc3d9b41103d37f6009b/amqp-client-5.17.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor.netty/reactor-netty-core/1.1.5/b3de902598436fba650e3213b2b7b9505270307b/reactor-netty-core-1.1.5.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.couchbase.client/core-io/2.4.4/e21641518fe4003d67dce7b20598ba0e3e7aba22/core-io-2.4.4.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.projectreactor/reactor-core/3.5.4/5105119510a6a37fea5c3d1c0107ed9ef22e91f5/reactor-core-3.5.4.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.4/3864a1320d97d7b045f729a326e1e077661f31b7/reactive-streams-1.0.4.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zaxxer/HikariCP-java7/2.4.13/3e441eddedb374d4de8e3abbb0c90997f51cc97b/HikariCP-java7-2.4.13.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.zookeeper/zookeeper/3.6.3/a6e74f826db85ff8c51c15ef0fa2ea0b462aef25/zookeeper-3.6.3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-jmx/4.2.18/5053b12feaac638abd00b35d006289c99d0cbd66/metrics-jmx-4.2.18.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-client/9.4.50.v20221201/92f544fa3fa330431f22840157cb7f0fd413e717/websocket-client-9.4.50.v20221201.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-client/11.0.14/bcf118cb9a8213b9685c506810914351af296cad/jetty-client-11.0.14.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-common/9.4.50.v20221201/d48fe54eb5e89c5102ede1fd9d7b59b2b9615b97/websocket-common-9.4.50.v20221201.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/11.0.14/b4616eff3510f04a1cffab854ea73bacb49a8ac9/jetty-http-11.0.14.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-alpn-client/11.0.14/69465b4d714c31361f07162c42df01e308f797f1/jetty-alpn-client-11.0.14.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/11.0.14/df05a6dc2efad4aad085052a15b26d39570af724/jetty-io-11.0.14.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/11.0.14/ec426028ebae844dc7438269fc7f967d0508749/jetty-util-11.0.14.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.graphql-java/java-dataloader/3.2.0/f45c53595cab4c23e35526cc122e2bd159a50516/java-dataloader-3.2.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.dropwizard.metrics/metrics-core/4.2.18/616b1bcf7ce3e45d1a49236f8aba4993d1897048/metrics-core-4.2.18.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-transport-zerodep/3.2.13/4cbc2c09d6c264767a39624066987ed4a152bc68/docker-java-transport-zerodep-3.2.13.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/2.0.7/41eb7184ea9d556f23e18b5cb99cad1f8581fc00/slf4j-api-2.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.retry/spring-retry/2.0.1/7251dcd778aa5338f0866bf8cfbb80f3f2058d97/spring-retry-2.0.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.tomcat/tomcat-annotations-api/10.1.7/372e532c54d1db5a080ceea777a73552455524eb/tomcat-annotations-api-10.1.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xmlunit/xmlunit-core/2.9.1/e5833662d9a1279a37da3ef6f62a1da29fcd68c4/xmlunit-core-2.9.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.8.10/a61b182458550492c12aee66157d7b524a63a5ec/kotlin-stdlib-common-1.8.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rnorth.duct-tape/duct-tape/1.0.8/92edc22a9ab2f3e17c9bf700aaee377d50e8b530/duct-tape-1.0.8.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/17.0.0/8ceead41f4e71821919dbdb7a9847608f1a938cb/annotations-17.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datastax.oss/native-protocol/1.5.1/97e812373a5fe7667384e7ad67819d2c71878bf8/native-protocol-1.5.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.datastax.oss/java-driver-shaded-guava/25.1-jre-graal-sub-1/522771d14d6b7dba67056a39db33f205ffbed6a4/java-driver-shaded-guava-25.1-jre-graal-sub-1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.staxex/stax-ex/2.1.0/33160568d70c01da407f8ba982bacf283d00ad4a/stax-ex-2.1.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.20.0/1fe6082e660daf07c689a89c94dc0f49c26b44bb/log4j-api-2.20.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-observation/1.11.0-M2/22a211544d3bc59d195551f9cfd7f661a17363fc/micrometer-observation-1.11.0-M2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-commons/1.11.0-M2/f0b96a7ae8a12e7eb089830cbe84c7cfbe2f2f95/micrometer-commons-1.11.0-M2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http2/4.1.90.Final/ea3be877ea976b3d71e1a872958d32854b24db66/netty-codec-http2-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.90.Final/6ab526a43a14f7796434fa6a705c34201603235f/netty-handler-proxy-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.90.Final/19bbcd46f8ee0d118486f98eff22fe665b9689e5/netty-codec-http-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns-native-macos/4.1.90.Final/b0f358b1b0a2ffaf173ab488edbf96649bb3ee40/netty-resolver-dns-native-macos-4.1.90.Final-osx-x86_64.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns-classes-macos/4.1.90.Final/2156592bf9174d349d1cd200d865e7a0d1c0fecc/netty-resolver-dns-classes-macos-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver-dns/4.1.90.Final/c9e6762805fe1bc854352dbc8020226f38674bce/netty-resolver-dns-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.90.Final/46d161ea223f67518ac489f6cd9b3ff99bd4b279/netty-transport-native-epoll-4.1.90.Final-linux-x86_64.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.90.Final/54b171fb0081870267a2810b8d2f84cfd23ea628/netty-transport-native-epoll-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.90.Final/64f6946ce4d9189cec5341d3f5f86ac5653099b5/netty-handler-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-dns/4.1.90.Final/ebf5da8e6edf783d069d9aca346ff46c55772de6/netty-codec-dns-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.90.Final/7397535a4e03d2f74c71aa2282eb7a2760ffc37b/netty-codec-socks-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.90.Final/9992a22c82e18b8fd4f34989535f3e504e55aa37/netty-codec-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.90.Final/2c925c90779d6193ea91973b73ca7ead38ec25a2/netty-transport-classes-epoll-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.90.Final/e42282002cf22105e7e993651aead231246d0220/netty-transport-native-unix-common-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.90.Final/82d68da212f62b076c763f5efa9b072d2abc018f/netty-transport-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.90.Final/937eb60c19c5f5c1326b96123c9ec3d33238d4d5/netty-buffer-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.90.Final/47c415d8c83f08b820ba00e6497a6cf19dd0155f/netty-resolver-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.90.Final/43597a09382c6ae2bef469a9b3a41e8a17850638/netty-common-4.1.90.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-tcnative-classes/2.0.59.Final/2ad08a03971ac6ad93be3e416df41553ec7d2e43/netty-tcnative-classes-2.0.59.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/6.0.7/6250e61ccf71b83204669e0501533278ef7888f8/spring-jcl-6.0.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.restdocs/spring-restdocs-core/3.0.0/82e4c7cf63a478e71272662c511f3485f4a5af7b/spring-restdocs-core-3.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-crypto/6.1.0-M2/dfbe382cd608805c907333bf7cea86a52d1f1ab3/spring-security-crypto-6.1.0-M2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-core-js/2.70.0/666c2b4265b9280a2a9316ecfc902716676177c1/htmlunit-core-js-2.70.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/neko-htmlunit/2.70.0/987545beef6b20ddb01c12acc18d2481fe2f16a5/neko-htmlunit-2.70.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-cssparser/1.14.0/c59d9383dc4c89a8f2146f296fdbcb6c5438a652/htmlunit-cssparser-1.14.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.htmlunit/htmlunit-xpath/2.70.0/33454527e317ca2ec22e34fc5f7eaaf0399e8253/htmlunit-xpath-2.70.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.10.0/3363381aef8cef2dbc1023b3e3a9433b08b64e01/commons-text-1.10.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.10.0/79384da84646660c57b89aa86a5a1eb98af50e00/commons-io-2.10.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-net/commons-net/3.9.0/5a4e26802e0a5a42938f987976b55dae4a6cc636/commons-net-3.9.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.brotli/dec/0.1.2/c26a897ae0d524809eef1c786cc6183b4ddcc3b/dec-0.1.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shapesecurity/salvation2/3.0.1/3b0a94fe6fa2f248c95bcb1f342ceabdd5985427/salvation2-3.0.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.rocksdb/rocksdbjni/7.1.2/ffe87d1c5d5b3a46d065cc4cf5311f18d8233a6b/rocksdbjni-7.1.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mchange/mchange-commons-java/0.2.19/7a4bee38ea02bd7dee776869b19fb3f6861d6acf/mchange-commons-java-0.2.19.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ongres.scram/client/2.1/4ab4f013dce4ce2bdf315e3cfef529bdc2b6a5d1/client-2.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.antlr/antlr4-runtime/4.10.1/10839f875928f59c622d675091d51a43ea0dc5f7/antlr4-runtime-4.10.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/xmlunit/xmlunit/1.6/adcae0aff916681dacd2b490e193f1119cd964a9/xmlunit-1.6.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ongres.scram/common/2.1/43dfdba15afc165a2a5da75f3ef1a2f5f7300f61/common-2.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.zookeeper/zookeeper-jute/3.6.3/8990d19ec3db01f45f82d4011a11b085db66de05/zookeeper-jute-3.6.3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.yetus/audience-annotations/0.5.0/55762d3191a8d6610ef46d11e8cb70c7667342a3/audience-annotations-0.5.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opentest4j/opentest4j/1.2.0/28c11eb91f9b6d8e200631d46e20a7f407f2a046/opentest4j-1.2.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.13.10/67c1afabaea9ba51321159e70a78515647e1b73d/scala-library-2.13.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.wildfly.common/wildfly-common/1.5.4.Final/735ceee5616d5143bac1bc740e444697073c002f/wildfly-common-1.5.4.Final.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.hk2/osgi-resource-locator/1.0.3/de3b21279df7e755e38275137539be5e2c80dd58/osgi-resource-locator-1.0.3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.typesafe/config/1.4.1/19058a07624a87f90d129af7cd9c68bee94535a9/config-1.4.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-posix/3.1.15/f7d6737adcbd5925d625b8f99166de2cbf13caac/jnr-posix-3.1.15.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hdrhistogram/HdrHistogram/2.1.12/6eb7552156e0d517ae80cc2247be1427c8d90452/HdrHistogram-2.1.12.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nimbusds/nimbus-jose-jwt/9.24.4/29a1f6a00a4daa3e1873f6bf4f16ddf4d6fd6d37/nimbus-jose-jwt-9.24.4.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.stephenc.jcip/jcip-annotations/1.0-1/ef31541dd28ae2cefdd17c7ebf352d93e9058c63/jcip-annotations-1.0-1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.spotbugs/spotbugs-annotations/3.1.12/ba2c77a05091820668987292f245f3b089387bfa/spotbugs-annotations-3.1.12.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ccil.cowan.tagsoup/tagsoup/1.2.1/5584627487e984c03456266d3f8802eb85a9ce97/tagsoup-1.2.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nimbusds/content-type/2.2/9a894bce7646dd4086652d85b88013229f23724b/content-type-2.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nimbusds/lang-tag/1.7/97c73ecd70bc7e8eefb26c5eea84f251a63f1031/lang-tag-1.7.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.websocket/websocket-api/9.4.50.v20221201/ee63cd762c3bf4ee8767a812d9d523b1a17bf78b/websocket-api-9.4.50.v20221201.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ongres.stringprep/saslprep/1.1/eaf05b6446126f95de2f183b91751a854c2fc0bc/saslprep-1.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minidev/accessors-smart/2.4.9/32e540749224c22c9b17de8137e916aae9057e22/accessors-smart-2.4.9.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-ffi/2.2.11/bcf004ce358c87fc4cd2853b658d336348d0370f/jnr-ffi-2.2.11.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-constants/0.10.3/af19ec7359dd72cbc7869c00bf7cdfa4c308e985/jnr-constants-0.10.3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java-transport/3.2.13/e9d308d1822181a9d48c99739f5eca014ec89199/docker-java-transport-3.2.13.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.dev.jna/jna/5.8.0/3551d8d827e54858214107541d3aff9c615cb615/jna-5.8.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ongres.stringprep/stringprep/1.1/9149e6d6f97be4c2b641c89ea569cb4fde872972/stringprep-1.1.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/9.2/f4d7f0fc9054386f2893b602454d48e07d4fbead/asm-commons-9.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/9.2/fbc178fc5ba3dab50fd7e8a5317b8b647c8e8946/asm-util-9.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/9.2/7487dd756daf96cab9986e44b9d7bcb796a61c10/asm-analysis-9.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/9.2/d96c99a30f5e1a19b0e609dbb19a44d8518ac01e/asm-tree-9.2.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/9.3/8e6300ef51c1d801a7ed62d07cd221aca3a90640/asm-9.3.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jffi/1.3.9/b776ea131fa693af2c943368b52acf94131cbd7/jffi-1.3.9.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-a64asm/1.0.0/a1cb8dbe71b5a6a0288043c3ba3ca64545be165/jnr-a64asm-1.0.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-x86asm/1.0.2/6936bbd6c5b235665d87bd450f5e13b52d4b48/jnr-x86asm-1.0.2.jar</arg>
+              </args>
+            </stringArg>
+            <stringArg name="destination" arg="$MODULE_DIR$/../../../../spring-boot-project/spring-boot-docs/build/classes/kotlin/main" />
+            <stringArg name="jvmTarget" arg="17" />
+            <stringArg name="moduleName" arg="spring-boot-docs" />
+            <stringArg name="apiVersion" arg="1.7" />
+            <stringArg name="languageVersion" arg="1.7" />
+          </stringArguments>
+          <arrayArguments>
+            <arrayArg name="friendPaths" />
+            <arrayArg name="pluginClasspaths">
+              <args>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-jvm/1.8.10/85d7bed036617120f09209e52f38cae13809176f/kotlin-scripting-jvm-1.8.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-scripting-common/1.8.10/605352a419127937229ab574b50146a4bb4122fa/kotlin-scripting-common-1.8.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.8.10/6d5560a229477df9406943d5feda5618e98eb64c/kotlin-stdlib-1.8.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.8.10/a61b182458550492c12aee66157d7b524a63a5ec/kotlin-stdlib-common-1.8.10.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar</arg>
+                <arg>$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-script-runtime/1.8.10/b13ea9c7e46d589139e56086a878763290e20bd5/kotlin-script-runtime-1.8.10.jar</arg>
+              </args>
+            </arrayArg>
+            <arrayArg name="pluginOptions" />
+          </arrayArguments>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../spring-boot-project/spring-boot-docs/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../spring-boot-project/spring-boot-docs/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../spring-boot-project/spring-boot-docs/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../spring-boot-project/spring-boot-docs/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../spring-boot-project/spring-boot-docs/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-actuator-autoconfigure.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-actuator.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-test-autoconfigure.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-autoconfigure.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-tools.spring-boot-cli.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-tools.spring-boot-loader-tools.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-test.main" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.4.6" level="project" />
+    <orderEntry type="library" name="Gradle: com.zaxxer:HikariCP:5.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.micrometer:micrometer-registry-graphite:1.11.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: io.micrometer:micrometer-registry-jmx:1.11.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.batch:spring-batch-core:5.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.micrometer:micrometer-core:1.11.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: io.projectreactor.netty:reactor-netty-http:1.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.undertow:undertow-core:2.3.4.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.glassfish.jersey.containers:jersey-container-servlet-core:3.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.glassfish.jersey.core:jersey-server:3.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-envers:3.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-jpa:3.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.annotation:jakarta.annotation-api:2.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.jms:jakarta.jms-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate.orm:hibernate-jcache:6.1.7.Final" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.persistence:jakarta.persistence-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.servlet:jakarta.servlet-api:6.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.validation:jakarta.validation-api:3.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.sourceforge.htmlunit:htmlunit:2.70.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents.client5:httpclient5:5.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-dbcp2:2.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.kafka:spring-kafka-test:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.kafka:kafka-streams:3.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-to-slf4j:2.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-core:10.1.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.24.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.cache2k:cache2k-spring:2.6.1.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.restdocs:spring-restdocs-restassured:3.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.groovy:groovy:4.0.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.8.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jooq:jooq:3.18.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.mockito:mockito-core:4.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.mongodb:mongodb-driver-sync:4.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.postgresql:r2dbc-postgresql:1.0.1.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.quartz-scheduler:quartz:2.3.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:jul-to-slf4j:2.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-r2dbc:3.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-orm:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jdbc:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jms:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.graphql:spring-graphql-test:1.2.0-M1" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.restdocs:spring-restdocs-mockmvc:3.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.restdocs:spring-restdocs-webtestclient:3.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.security:spring-security-test:6.1.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-test:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-couchbase:5.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-webflux:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.ws:spring-ws-test:4.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.ws:spring-ws-core:4.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-webmvc:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-websocket:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.security:spring-security-oauth2-client:6.1.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.security:spring-security-web:6.1.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-web:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.amqp:spring-rabbit:3.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.amqp:spring-amqp:3.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-cassandra:4.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-elasticsearch:5.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-ldap:3.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-mongodb:4.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-neo4j:7.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-redis:3.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.graphql:spring-graphql:1.2.0-M1" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.kafka:spring-kafka:3.0.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.security:spring-security-config:6.1.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: org.testcontainers:junit-jupiter:1.17.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.testcontainers:neo4j:1.17.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter:5.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.33" level="project" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot.main" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-compress:1.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-core:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.4.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:2.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: io.dropwizard.metrics:metrics-graphite:4.2.18" level="project" />
+    <orderEntry type="library" name="Gradle: io.dropwizard.metrics:metrics-jmx:4.2.18" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-context:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-tx:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-aop:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-beans:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.batch:spring-batch-infrastructure:5.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.micrometer:micrometer-observation:1.11.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: io.micrometer:micrometer-commons:1.11.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: io.projectreactor.netty:reactor-netty-core:1.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.projectreactor:reactor-core:3.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http2:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver-dns-native-macos:osx-x86_64:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver-dns:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-epoll:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.jboss.threads:jboss-threads:3.5.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.jboss.xnio:xnio-api:3.8.8.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.jboss.logging:jboss-logging:3.5.0.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.glassfish.jersey.core:jersey-common:3.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.inject:jakarta.inject-api:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.ws.rs:jakarta.ws.rs-api:3.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.glassfish.jersey.core:jersey-client:3.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate.orm:hibernate-envers:6.1.7.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-commons:3.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.antlr:antlr4-runtime:4.10.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.hibernate.orm:hibernate-core:6.1.7.Final" level="project" />
+    <orderEntry type="library" name="Gradle: javax.cache:cache-api:1.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpmime:4.5.14" level="project" />
+    <orderEntry type="library" name="Gradle: commons-codec:commons-codec:1.15" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.12.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-client:9.4.50.v20221201" level="project" />
+    <orderEntry type="library" name="Gradle: net.sourceforge.htmlunit:htmlunit-core-js:2.70.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.sourceforge.htmlunit:neko-htmlunit:2.70.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.sourceforge.htmlunit:htmlunit-cssparser:1.14.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.sourceforge.htmlunit:htmlunit-xpath:2.70.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-text:1.10.0" level="project" />
+    <orderEntry type="library" name="Gradle: commons-io:commons-io:2.10.0" level="project" />
+    <orderEntry type="library" name="Gradle: commons-net:commons-net:3.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.brotli:dec:0.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.shapesecurity:salvation2:3.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents.core5:httpcore5-h2:5.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents.core5:httpcore5:5.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-pool2:2.11.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.kafka:kafka-streams-test-utils:3.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-launcher:1.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.kafka:kafka_2.13:3.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.kafka:kafka_2.13:test:3.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.kafka:kafka-clients:3.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.kafka:kafka-clients:test:3.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.kafka:kafka-metadata:3.4.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.zookeeper:zookeeper:3.6.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.retry:spring-retry:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.rocksdb:rocksdbjni:7.1.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat:tomcat-annotations-api:10.1.7" level="project" />
+    <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy:1.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.cache2k:cache2k-api:2.6.1.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.rest-assured:rest-assured:5.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.restdocs:spring-restdocs-core:3.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.8.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.8.10" level="project" />
+    <orderEntry type="library" name="Gradle: io.r2dbc:r2dbc-spi:1.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy-agent:1.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.mongodb:mongodb-driver-core:4.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.mongodb:bson:4.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.ongres.scram:client:2.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.mchange:c3p0:0.9.5.5" level="project" />
+    <orderEntry type="library" name="Gradle: com.zaxxer:HikariCP-java7:2.4.13" level="project" />
+    <orderEntry type="library" name="Gradle: com.mchange:mchange-commons-java:0.2.19" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-relational:3.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-r2dbc:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-messaging:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.graphql-java:graphql-java:20.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.jayway.jsonpath:json-path:2.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.security:spring-security-core:6.1.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-context-support:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.couchbase.client:java-client:3.4.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.ws:spring-xml:4.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.sun.xml.messaging.saaj:saaj-impl:3.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.xmlunit:xmlunit-core:2.9.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jvnet.staxex:stax-ex:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: xmlunit:xmlunit:1.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-oxm:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.xml.bind:jakarta.xml.bind-api:4.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.xml.soap:jakarta.xml.soap-api:3.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-expression:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.security:spring-security-oauth2-core:6.1.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: com.nimbusds:oauth2-oidc-sdk:9.43.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.rabbitmq:amqp-client:5.17.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.datastax.oss:java-driver-query-builder:4.15.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.datastax.oss:java-driver-core:4.15.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: co.elastic.clients:elasticsearch-java:8.6.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.elasticsearch.client:elasticsearch-rest-client:8.6.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.ldap:spring-ldap-core:3.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.neo4j:neo4j-cypher-dsl:2023.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apiguardian:apiguardian-api:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.transaction:jakarta.transaction-api:2.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.neo4j.driver:neo4j-java-driver:5.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-keyvalue:3.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.testcontainers:testcontainers:1.17.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-params:5.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jcl:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: io.dropwizard.metrics:metrics-core:4.2.18" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler-proxy:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-buffer:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-common:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver-dns-classes-macos:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-dns:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-classes-epoll:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-unix-common:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.wildfly.client:wildfly-client-config:1.0.1.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.wildfly.common:wildfly-common:1.5.4.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.glassfish.hk2:osgi-resource-locator:1.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpclient:4.5.14" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-client:11.0.14" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-common:9.4.50.v20221201" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-io:11.0.14" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-util:11.0.14" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-commons:1.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.opentest4j:opentest4j:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-engine:1.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.scala-lang:scala-library:2.13.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.zookeeper:zookeeper-jute:3.6.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.yetus:audience-annotations:0.5.0" level="project" />
+    <orderEntry type="library" name="Gradle: io.rest-assured:xml-path:5.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.groovy:groovy-xml:4.0.10" level="project" />
+    <orderEntry type="library" name="Gradle: io.rest-assured:json-path:5.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest:2.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.ccil.cowan.tagsoup:tagsoup:1.2.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.8.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:17.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.ongres.scram:common:2.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.graphql-java:java-dataloader:3.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.minidev:json-smart:2.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.security:spring-security-crypto:6.1.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.couchbase.client:core-io:2.4.4" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.activation:jakarta.activation-api:2.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.nimbusds:nimbus-jose-jwt:9.24.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.stephenc.jcip:jcip-annotations:1.0-1" level="project" />
+    <orderEntry type="library" name="Gradle: com.nimbusds:content-type:2.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.nimbusds:lang-tag:1.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.datastax.oss:java-driver-shaded-guava:25.1-jre-graal-sub-1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.spotbugs:spotbugs-annotations:3.1.12" level="project" />
+    <orderEntry type="library" name="Gradle: com.datastax.oss:native-protocol:1.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.typesafe:config:1.4.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jnr:jnr-posix:3.1.15" level="project" />
+    <orderEntry type="library" name="Gradle: org.hdrhistogram:HdrHistogram:2.1.12" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.parsson:parsson:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.json:jakarta.json-api:2.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpasyncclient:4.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore:4.4.16" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.httpcomponents:httpcore-nio:4.4.16" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-tcnative-classes:2.0.59.Final" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.13.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.docker-java:docker-java-api:3.2.13" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.docker-java:docker-java-transport-zerodep:3.2.13" level="project" />
+    <orderEntry type="library" name="Gradle: org.rnorth.duct-tape:duct-tape:1.0.8" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-socks:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-http:11.0.14" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty:jetty-alpn-client:11.0.14" level="project" />
+    <orderEntry type="library" name="Gradle: org.eclipse.jetty.websocket:websocket-api:9.4.50.v20221201" level="project" />
+    <orderEntry type="library" name="Gradle: io.rest-assured:rest-assured-common:5.3.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.groovy:groovy-json:4.0.10" level="project" />
+    <orderEntry type="library" name="Gradle: com.ongres.stringprep:saslprep:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.minidev:accessors-smart:2.4.9" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jnr:jnr-ffi:2.2.11" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jnr:jnr-constants:0.10.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:2.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.docker-java:docker-java-transport:3.2.13" level="project" />
+    <orderEntry type="library" name="Gradle: net.java.dev.jna:jna:5.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.ongres.stringprep:stringprep:1.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm:9.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-commons:9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-util:9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-analysis:9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm-tree:9.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jnr:jffi:1.3.9" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jnr:jnr-a64asm:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.jnr:jnr-x86asm:1.0.2" level="project" />
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../../spring-boot-project/spring-boot-tools/spring-boot-loader-tools/build/generated-resources/main" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <excluded>
+          <root url="file://$MODULE_DIR$/../../../../spring-boot-project/spring-boot-tools/spring-boot-loader-tools/build/generated-resources/main" />
+        </excluded>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: jline:jline:2.11" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.sf.jopt-simple:jopt-simple:5.0.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.slf4j:slf4j-simple:2.0.7" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.latencyutils:LatencyUtils:2.0.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jboss.xnio:xnio-nio:3.8.8.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.cache2k:cache2k-core:2.6.1.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.objenesis:objenesis:3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.jaxb:jaxb-runtime:4.0.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.micrometer:context-propagation:1.0.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.hibernate.common:hibernate-commons-annotations:6.0.6.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.jboss:jandex:2.4.2.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml:classmate:1.5.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.module:jackson-module-scala_2.13:2.14.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-csv:2.14.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.kafka:kafka-raft:3.4.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.kafka:kafka-storage:3.4.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.kafka:kafka-group-coordinator:3.4.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.kafka:kafka-server-common:3.4.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.bitbucket.b_c:jose4j:0.7.9" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.yammer.metrics:metrics-core:2.2.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.typesafe.scala-logging:scala-logging_2.13:3.9.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: net.sourceforge.argparse4j:argparse4j:0.7.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scala-lang.modules:scala-collection-compat_2.13:2.6.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scala-lang.modules:scala-java8-compat_2.13:1.0.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.scala-lang:scala-reflect:2.13.10" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: commons-cli:commons-cli:1.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.luben:zstd-jni:1.5.2-1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.lz4:lz4-java:1.8.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.xerial.snappy:snappy-java:1.1.8.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.mongodb:bson-record-codec:4.9.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.eclipse.angus:angus-activation:2.0.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.jaxb:jaxb-core:4.0.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.thoughtworks.paranamer:paranamer:2.8" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.kafka:kafka-storage-api:3.4.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.glassfish.jaxb:txw2:4.0.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.sun.istack:istack-commons-runtime:4.1.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.github.jnr:jffi:native:1.3.9" level="project" />
+  </component>
+</module>

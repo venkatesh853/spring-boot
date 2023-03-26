@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.zipkin.aws:brave-propagation-aws:0.23.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.zipkin.aws/brave-propagation-aws/0.23.4/ec6d25d2fe5a2fcd3ad9345b3cce20d79694996f/brave-propagation-aws-0.23.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.zipkin.aws/brave-propagation-aws/0.23.4/9bca7596c44a628c2b1c6f2013de98db8ccc03ea/brave-propagation-aws-0.23.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

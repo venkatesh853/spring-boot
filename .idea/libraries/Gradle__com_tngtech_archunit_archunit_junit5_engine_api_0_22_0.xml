@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tngtech.archunit:archunit-junit5-engine-api:0.22.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tngtech.archunit/archunit-junit5-engine-api/0.22.0/c1efc242e3e58a049ca0735453df255805a9c304/archunit-junit5-engine-api-0.22.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tngtech.archunit/archunit-junit5-engine-api/0.22.0/1901d7a60c817c20e9f7794fb52a8abf615ef230/archunit-junit5-engine-api-0.22.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

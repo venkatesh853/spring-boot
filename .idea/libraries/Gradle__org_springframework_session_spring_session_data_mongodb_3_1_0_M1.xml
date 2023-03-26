@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.session:spring-session-data-mongodb:3.1.0-M1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session-data-mongodb/3.1.0-M1/1f3a15f121b8e020e1c54ea74d80f7a3f636d7be/spring-session-data-mongodb-3.1.0-M1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.session/spring-session-data-mongodb/3.1.0-M1/46543b0e5405668c1d98f467663e39acfd92b31a/spring-session-data-mongodb-3.1.0-M1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

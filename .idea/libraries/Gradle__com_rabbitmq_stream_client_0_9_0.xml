@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.rabbitmq:stream-client:0.9.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/stream-client/0.9.0/d084672a42ebb7cdaef49c8818e4dd1a38fd9a6/stream-client-0.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.rabbitmq/stream-client/0.9.0/549626bc9c81e4122fda1e6e24155189bb2a2a16/stream-client-0.9.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

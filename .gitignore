@@ -6,3 +6,12 @@ build/
 *.aar
 *.war
 !gradle-wrapper.jar
+
+/target
+dependency-reduced-pom.xml
+
+# Others
+.classpath
+.project
+.settings/
+.vscode

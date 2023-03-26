@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micrometer:micrometer-tracing-bridge-brave:1.1.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-tracing-bridge-brave/1.1.0-M2/4f13a6162a2f28f2b2e15fba2e4f81ef23bf8ea9/micrometer-tracing-bridge-brave-1.1.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-tracing-bridge-brave/1.1.0-M2/33a9c5e8d1c73ddc83c4c7e580ee310b819e866d/micrometer-tracing-bridge-brave-1.1.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

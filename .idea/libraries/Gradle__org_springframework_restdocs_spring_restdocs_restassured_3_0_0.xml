@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.restdocs:spring-restdocs-restassured:3.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.restdocs/spring-restdocs-restassured/3.0.0/455705e75b4917a74252898fa73c85b8b189366d/spring-restdocs-restassured-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.restdocs/spring-restdocs-restassured/3.0.0/892b76d0970183aff1c52d6eb925e6e8a4407fc9/spring-restdocs-restassured-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.infinispan:infinispan-commons-jakarta:14.0.7.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.infinispan/infinispan-commons-jakarta/14.0.7.Final/71e26d6a709634d1e2f2660ba79a0afdb3fe8b9b/infinispan-commons-jakarta-14.0.7.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.infinispan/infinispan-commons-jakarta/14.0.7.Final/a98791e916aeabef3c37f3c03b14beb48a8bd4e4/infinispan-commons-jakarta-14.0.7.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

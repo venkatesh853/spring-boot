@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.plugins:maven-shade-plugin:3.2.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.plugins/maven-shade-plugin/3.2.4/4cb43b86676649691a3945872998b5514ed40505/maven-shade-plugin-3.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.plugins/maven-shade-plugin/3.2.4/527f1598f3b3f0e3d7bc1950f0075e50778a648f/maven-shade-plugin-3.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

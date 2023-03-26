@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jooq:jooq:3.18.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.18.1/396cfa1b54688a3c661ba16b6cac7ace49a226a7/jooq-3.18.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jooq/jooq/3.18.1/8adc290f6047a970e4e36d1f79edacec65957b03/jooq-3.18.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

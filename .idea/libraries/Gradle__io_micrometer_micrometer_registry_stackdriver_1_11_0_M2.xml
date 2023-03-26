@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micrometer:micrometer-registry-stackdriver:1.11.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-stackdriver/1.11.0-M2/fee60a35f650be2976a68ab0568c527d8269791/micrometer-registry-stackdriver-1.11.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-stackdriver/1.11.0-M2/f9caa282711ac9f1a103608b6f5ed5a7e9e4d358/micrometer-registry-stackdriver-1.11.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-boot-project:spring-boot-starters:spring-boot-starter-logging:main" external.linked.project.path="$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-starters/spring-boot-starter-logging" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="org.springframework.boot" external.system.module.type="sourceSet" external.system.module.version="3.1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-starters/spring-boot-starter-logging/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-starters/spring-boot-starter-logging/src/main" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.4.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-to-slf4j:2.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:jul-to-slf4j:2.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.4.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:2.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.20.0" level="project" />
+  </component>
+</module>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.security:spring-security-rsocket:6.1.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-rsocket/6.1.0-M2/c14593265dbb90b9b25c68ddce29b13cfc45eca/spring-security-rsocket-6.1.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-rsocket/6.1.0-M2/a1dacfb0a44d09805881d531d11f73c142a5a885/spring-security-rsocket-6.1.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

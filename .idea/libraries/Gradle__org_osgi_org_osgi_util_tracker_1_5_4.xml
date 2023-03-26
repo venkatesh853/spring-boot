@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.osgi:org.osgi.util.tracker:1.5.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.util.tracker/1.5.4/eec58ba28538cb05b7d78aff8c915d6d35b66db8/org.osgi.util.tracker-1.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.util.tracker/1.5.4/60cbb671462d0debc67eeaab0b1b6376b15644c3/org.osgi.util.tracker-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

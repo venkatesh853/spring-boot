@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.cache2k:cache2k-micrometer:2.6.1.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cache2k/cache2k-micrometer/2.6.1.Final/58731da010cc872915e012325027954bdc3122c8/cache2k-micrometer-2.6.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cache2k/cache2k-micrometer/2.6.1.Final/d4f695eccaa709180dde68cac9f682dee5492bad/cache2k-micrometer-2.6.1.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

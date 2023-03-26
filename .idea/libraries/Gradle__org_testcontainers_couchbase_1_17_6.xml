@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.testcontainers:couchbase:1.17.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testcontainers/couchbase/1.17.6/53178ff375469c28e3e2a88f29c9617065ed89a3/couchbase-1.17.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testcontainers/couchbase/1.17.6/1aad9d4a9dfe162a1b7ab9c067312cbfb29ec4c8/couchbase-1.17.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

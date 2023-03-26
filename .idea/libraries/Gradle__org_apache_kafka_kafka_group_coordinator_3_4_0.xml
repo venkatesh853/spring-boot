@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.kafka:kafka-group-coordinator:3.4.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-group-coordinator/3.4.0/fbb3b282c480034b0a50ab0cf2c840102646b74/kafka-group-coordinator-3.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.kafka/kafka-group-coordinator/3.4.0/f7150367eeeec66d5108befe02efc9c883c21df/kafka-group-coordinator-3.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

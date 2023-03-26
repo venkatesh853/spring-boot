@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.cache2k:cache2k-spring:2.6.1.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cache2k/cache2k-spring/2.6.1.Final/cd312efb1645de91bdd8571b98273cb0acf52d15/cache2k-spring-2.6.1.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.cache2k/cache2k-spring/2.6.1.Final/fa4951eb644a8925b34b22f00db95811b7a20b69/cache2k-spring-2.6.1.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-boot-tests:spring-boot-smoke-tests:spring-boot-smoke-test-liquibase:test" external.linked.project.path="$MODULE_DIR$/../../../../../spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-liquibase" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="org.springframework.boot" external.system.module.type="sourceSet" external.system.module.version="3.1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../../spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-liquibase/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-liquibase/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-liquibase/src/test/java" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-tests.spring-boot-smoke-tests.spring-boot-smoke-test-liquibase.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-starters.spring-boot-starter-actuator.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-starters.spring-boot-starter-jdbc.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-starters.spring-boot-starter-web.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-starters.spring-boot-starter-test.main" />
+    <orderEntry type="library" name="Gradle: jakarta.xml.bind:jakarta.xml.bind-api:4.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.liquibase:liquibase-core:4.20.0" level="project" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-starters.spring-boot-starter.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-actuator-autoconfigure.main" />
+    <orderEntry type="library" name="Gradle: io.micrometer:micrometer-core:1.11.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: io.micrometer:micrometer-observation:1.11.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: com.zaxxer:HikariCP:5.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jdbc:6.0.7" level="project" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-starters.spring-boot-starter-json.main" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-webmvc:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-web:6.0.7" level="project" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-starters.spring-boot-starter-tomcat.main" />
+    <orderEntry type="library" name="Gradle: org.skyscreamer:jsonassert:1.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter:5.9.2" level="project" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-test-autoconfigure.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-test.main" />
+    <orderEntry type="library" name="Gradle: com.jayway.jsonpath:json-path:2.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.24.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest:2.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.mockito:mockito-junit-jupiter:4.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.mockito:mockito-core:4.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-test:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-core:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.xmlunit:xmlunit-core:2.9.1" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.activation:jakarta.activation-api:2.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.opencsv:opencsv:5.7.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.33" level="project" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-autoconfigure.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot.main" />
+    <orderEntry type="library" name="Gradle: jakarta.annotation:jakarta.annotation-api:2.1.1" level="project" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-starters.spring-boot-starter-logging.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-actuator.main" />
+    <orderEntry type="library" name="Gradle: io.micrometer:micrometer-commons:1.11.0-M2" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:2.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-tx:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-beans:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jdk8:2.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.module:jackson-module-parameter-names:2.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-databind:2.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-context:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-aop:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-expression:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-websocket:10.1.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-core:10.1.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tomcat.embed:tomcat-embed-el:10.1.7" level="project" />
+    <orderEntry type="library" name="Gradle: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-params:5.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.minidev:json-smart:2.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy:1.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy-agent:1.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jcl:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-text:1.10.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.12.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-collections4:4.4" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.4.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:jul-to-slf4j:2.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-to-slf4j:2.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-core:2.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.14.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apiguardian:apiguardian-api:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-commons:1.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.opentest4j:opentest4j:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: net.minidev:accessors-smart:2.4.9" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.4.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm:9.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.h2database:h2:2.1.214" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-launcher:1.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.hdrhistogram:HdrHistogram:2.1.12" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.latencyutils:LatencyUtils:2.0.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.objenesis:objenesis:3.3" level="project" />
+  </component>
+</module>

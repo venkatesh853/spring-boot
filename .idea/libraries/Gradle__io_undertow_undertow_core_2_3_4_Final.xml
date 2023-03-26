@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.undertow:undertow-core:2.3.4.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/2.3.4.Final/1116e3a9dcfcc84baefa3a433f7a8526182f9088/undertow-core-2.3.4.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.undertow/undertow-core/2.3.4.Final/17c7984f94e0f008444cc8f31c49342e94de0659/undertow-core-2.3.4.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

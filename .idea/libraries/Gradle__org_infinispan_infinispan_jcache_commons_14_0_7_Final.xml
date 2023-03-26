@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.infinispan:infinispan-jcache-commons:14.0.7.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.infinispan/infinispan-jcache-commons/14.0.7.Final/ebfbbf41e48b537ebe00e762b91949b746f40e0e/infinispan-jcache-commons-14.0.7.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.infinispan/infinispan-jcache-commons/14.0.7.Final/e4ec905d8e09476e3c6d2b77eef6a26500ce903b/infinispan-jcache-commons-14.0.7.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

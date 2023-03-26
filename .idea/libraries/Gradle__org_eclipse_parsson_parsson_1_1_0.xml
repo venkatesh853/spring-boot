@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.eclipse.parsson:parsson:1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.parsson/parsson/1.1.0/9de69f5b29040791c2c275837ce56bc658ff834b/parsson-1.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.parsson/parsson/1.1.0/b6879f1728ce96e0aef30fe36bee654abcc0cf1/parsson-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

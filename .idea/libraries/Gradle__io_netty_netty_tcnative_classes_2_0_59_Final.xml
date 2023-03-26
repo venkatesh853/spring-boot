@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.netty:netty-tcnative-classes:2.0.59.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-tcnative-classes/2.0.59.Final/2ad08a03971ac6ad93be3e416df41553ec7d2e43/netty-tcnative-classes-2.0.59.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.netty/netty-tcnative-classes/2.0.59.Final/9bdc9b64006038811a9eb1bb254fca6cb4253fe6/netty-tcnative-classes-2.0.59.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

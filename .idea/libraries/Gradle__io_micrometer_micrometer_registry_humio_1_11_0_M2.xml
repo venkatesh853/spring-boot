@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micrometer:micrometer-registry-humio:1.11.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-humio/1.11.0-M2/11372d9305e8499308d91ecf21d0c2982486dd9/micrometer-registry-humio-1.11.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-humio/1.11.0-M2/fdf7c6a4d4e0a309fcc9f0c537a540d43bcbac8d/micrometer-registry-humio-1.11.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

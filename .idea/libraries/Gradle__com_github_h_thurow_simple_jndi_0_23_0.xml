@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.h-thurow:simple-jndi:0.23.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.h-thurow/simple-jndi/0.23.0/9d84c51c3fb99213eec9c5877fde09951ec3593c/simple-jndi-0.23.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.h-thurow/simple-jndi/0.23.0/842ca633882d73601399ff70d8b9424aff934d5c/simple-jndi-0.23.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

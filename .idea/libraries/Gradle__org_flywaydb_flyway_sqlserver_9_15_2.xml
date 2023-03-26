@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.flywaydb:flyway-sqlserver:9.15.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.flywaydb/flyway-sqlserver/9.15.2/529d201133f6596af61ded620ff4da8d54fa5da5/flyway-sqlserver-9.15.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.flywaydb/flyway-sqlserver/9.15.2/924b98f26a6e58e930cff142467842347660d53f/flyway-sqlserver-9.15.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

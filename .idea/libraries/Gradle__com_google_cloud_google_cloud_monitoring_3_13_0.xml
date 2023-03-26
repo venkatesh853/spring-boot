@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.cloud:google-cloud-monitoring:3.13.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-monitoring/3.13.0/f849392b633aafede93179cf829392d133f83333/google-cloud-monitoring-3.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.cloud/google-cloud-monitoring/3.13.0/51b298e116d705c5b0f73848134cf34184444aa5/google-cloud-monitoring-3.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

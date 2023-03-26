@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-boot-tests:spring-boot-smoke-tests:spring-boot-smoke-test-data-r2dbc-liquibase:test" external.linked.project.path="$MODULE_DIR$/../../../../../spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-r2dbc-liquibase" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="org.springframework.boot" external.system.module.type="sourceSet" external.system.module.version="3.1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../../spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-r2dbc-liquibase/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-r2dbc-liquibase/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../spring-boot-tests/spring-boot-smoke-tests/spring-boot-smoke-test-data-r2dbc-liquibase/src/test/java" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-tests.spring-boot-smoke-tests.spring-boot-smoke-test-data-r2dbc-liquibase.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-tools.spring-boot-test-support.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-starters.spring-boot-starter-data-r2dbc.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-starters.spring-boot-starter-test.main" />
+    <orderEntry type="library" name="Gradle: io.projectreactor:reactor-test:3.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.testcontainers:junit-jupiter:1.17.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.testcontainers:postgresql:1.17.6" level="project" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-starters.spring-boot-starter.main" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-r2dbc:3.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: io.r2dbc:r2dbc-pool:1.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: io.r2dbc:r2dbc-spi:1.0.0.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.skyscreamer:jsonassert:1.5.1" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter:5.9.2" level="project" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-test-autoconfigure.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-test.main" />
+    <orderEntry type="library" name="Gradle: com.jayway.jsonpath:json-path:2.7.0" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.xml.bind:jakarta.xml.bind-api:4.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.24.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest:2.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.mockito:mockito-junit-jupiter:4.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.mockito:mockito-core:4.11.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-test:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-core:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.xmlunit:xmlunit-core:2.9.1" level="project" />
+    <orderEntry type="library" name="Gradle: io.projectreactor:reactor-core:3.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.testcontainers:testcontainers:1.17.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.testcontainers:jdbc:1.17.6" level="project" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-autoconfigure.main" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot.main" />
+    <orderEntry type="library" name="Gradle: jakarta.annotation:jakarta.annotation-api:2.1.1" level="project" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-starters.spring-boot-starter-logging.main" />
+    <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.33" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-r2dbc:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-relational:3.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-context:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jdbc:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-tx:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework.data:spring-data-commons:3.1.0-M3" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-beans:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:2.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: io.projectreactor.addons:reactor-pool:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-params:5.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.minidev:json-smart:2.4.10" level="project" />
+    <orderEntry type="library" name="Gradle: jakarta.activation:jakarta.activation-api:2.1.1" level="project" />
+    <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy:1.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy-agent:1.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jcl:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-commons:1.9.2" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apiguardian:apiguardian-api:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.opentest4j:opentest4j:1.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-compress:1.21" level="project" />
+    <orderEntry type="library" name="Gradle: junit:junit:4.13.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.docker-java:docker-java-api:3.2.13" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.docker-java:docker-java-transport-zerodep:3.2.13" level="project" />
+    <orderEntry type="library" name="Gradle: org.rnorth.duct-tape:duct-tape:1.0.8" level="project" />
+    <orderEntry type="library" name="Gradle: org.testcontainers:database-commons:1.17.6" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.4.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:jul-to-slf4j:2.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-to-slf4j:2.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-aop:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-expression:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: net.minidev:accessors-smart:2.4.9" level="project" />
+    <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:2.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.fasterxml.jackson.core:jackson-annotations:2.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.docker-java:docker-java-transport:3.2.13" level="project" />
+    <orderEntry type="library" name="Gradle: net.java.dev.jna:jna:5.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:17.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.4.6" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.ow2.asm:asm:9.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.liquibase:liquibase-core:4.20.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.postgresql:postgresql:42.6.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.postgresql:r2dbc-postgresql:1.0.1.RELEASE" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-launcher:1.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.springframework:spring-core-test:6.0.7" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: jakarta.inject:jakarta.inject-api:2.0.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven:maven-resolver-provider:3.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven.resolver:maven-resolver-connector-basic:1.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven.resolver:maven-resolver-impl:1.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven.resolver:maven-resolver-transport-http:1.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.hamcrest:hamcrest-library:2.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.opencsv:opencsv:5.7.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.checkerframework:checker-qual:3.31.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.projectreactor.netty:reactor-netty-core:1.1.5" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.ongres.scram:client:2.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.thoughtworks.qdox:qdox:2.0.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven.resolver:maven-resolver-spi:1.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven.resolver:maven-resolver-util:1.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven.resolver:maven-resolver-api:1.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven:maven-model-builder:3.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven:maven-model:3.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven:maven-repository-metadata:3.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.codehaus.plexus:plexus-utils:3.2.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.commons:commons-lang3:3.12.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.httpcomponents:httpclient:4.5.12" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.httpcomponents:httpcore:4.4.16" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.commons:commons-text:1.10.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.commons:commons-collections4:4.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-resolver-dns-native-macos:osx-x86_64:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-resolver-dns:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-handler-proxy:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-handler:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.ongres.scram:common:2.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.objenesis:objenesis:3.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven:maven-artifact:3.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.codehaus.plexus:plexus-interpolation:1.25" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.apache.maven:maven-builder-support:3.6.3" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.eclipse.sisu:org.eclipse.sisu.inject:0.3.4" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: commons-codec:commons-codec:1.15" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-resolver-dns-classes-macos:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-codec-dns:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-codec:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-transport:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-buffer:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-resolver:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-common:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-codec-http:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-codec-socks:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-transport-native-unix-common:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: io.netty:netty-transport-classes-epoll:4.1.90.Final" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.ongres.stringprep:saslprep:1.1" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: com.ongres.stringprep:stringprep:1.1" level="project" />
+  </component>
+</module>

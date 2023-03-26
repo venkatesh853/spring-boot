@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.resolver:maven-resolver-transport-http:1.6.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.resolver/maven-resolver-transport-http/1.6.3/f931c197612dcd8c54561cedfdccf9baf4218357/maven-resolver-transport-http-1.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.resolver/maven-resolver-transport-http/1.6.3/90599db7f29ec1e3a2ffc9cf7da735dc33877aa/maven-resolver-transport-http-1.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

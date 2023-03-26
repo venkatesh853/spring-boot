@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-boot-project:spring-boot-tools:spring-boot-jarmode-layertools:main" external.linked.project.path="$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-tools/spring-boot-jarmode-layertools" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="org.springframework.boot" external.system.module.type="sourceSet" external.system.module.version="3.1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-tools/spring-boot-jarmode-layertools/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-tools/spring-boot-jarmode-layertools/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-tools/spring-boot-jarmode-layertools/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-tools/spring-boot-jarmode-layertools/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-tools.spring-boot-loader.main" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-core:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jcl:6.0.7" level="project" />
+  </component>
+</module>

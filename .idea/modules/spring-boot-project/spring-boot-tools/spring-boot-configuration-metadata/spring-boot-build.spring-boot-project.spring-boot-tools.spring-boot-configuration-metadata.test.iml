@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-boot-project:spring-boot-tools:spring-boot-configuration-metadata:test" external.linked.project.path="$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="org.springframework.boot" external.system.module.type="sourceSet" external.system.module.version="3.1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/build/classes/java/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-tools/spring-boot-configuration-metadata/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="spring-boot-build.spring-boot-project.spring-boot-tools.spring-boot-configuration-metadata.main" />
+    <orderEntry type="library" name="Gradle: com.vaadin.external.google:android-json:0.0.20131108.vaadin1" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter:5.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.assertj:assertj-core:3.24.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-core:6.0.7" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-params:5.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.jupiter:junit-jupiter-api:5.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: net.bytebuddy:byte-buddy:1.14.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-jcl:6.0.7" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Gradle: org.apiguardian:apiguardian-api:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.junit.platform:junit-platform-commons:1.9.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.opentest4j:opentest4j:1.2.0" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-launcher:1.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.9.2" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.9.2" level="project" />
+  </component>
+</module>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.api.grpc:proto-google-cloud-monitoring-v3:3.13.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-monitoring-v3/3.13.0/d1f26468ac024d3670c445a691695c9e6accaec1/proto-google-cloud-monitoring-v3-3.13.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.api.grpc/proto-google-cloud-monitoring-v3/3.13.0/946b7add880aa987b1e33587d064a93c289bb2c2/proto-google-cloud-monitoring-v3-3.13.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

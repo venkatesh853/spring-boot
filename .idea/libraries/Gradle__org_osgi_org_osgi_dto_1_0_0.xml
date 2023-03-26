@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.osgi:org.osgi.dto:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.dto/1.0.0/1d01eb8c487477f929127d4a88fbfe97af0379a4/org.osgi.dto-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.dto/1.0.0/4295ed0dabc62b66bbc5b3902351e6297b37b53/org.osgi.dto-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

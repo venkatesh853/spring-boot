@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.graalvm.buildtools:graalvm-reachability-metadata:0.9.20">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.graalvm.buildtools/graalvm-reachability-metadata/0.9.20/b7645aad093ab7357805536dcdff2f04c5bb3157/graalvm-reachability-metadata-0.9.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.graalvm.buildtools/graalvm-reachability-metadata/0.9.20/6ef4d3948d3e77adf260eadf0394e56260963e5b/graalvm-reachability-metadata-0.9.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

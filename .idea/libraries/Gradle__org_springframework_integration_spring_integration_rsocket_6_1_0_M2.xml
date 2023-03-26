@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.integration:spring-integration-rsocket:6.1.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.integration/spring-integration-rsocket/6.1.0-M2/a92b77210a5080f856afaecd88da63aaaee3eff7/spring-integration-rsocket-6.1.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.integration/spring-integration-rsocket/6.1.0-M2/34fc4ba181096d5748c10181f2be48fa1a573915/spring-integration-rsocket-6.1.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

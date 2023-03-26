@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":spring-boot-project:spring-boot-starters:spring-boot-starter-reactor-netty:main" external.linked.project.path="$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-starters/spring-boot-starter-reactor-netty" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="org.springframework.boot" external.system.module.type="sourceSet" external.system.module.version="3.1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-starters/spring-boot-starter-reactor-netty/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../spring-boot-project/spring-boot-starters/spring-boot-starter-reactor-netty/src/main" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.projectreactor.netty:reactor-netty-http:1.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.projectreactor.netty:reactor-netty-core:1.1.5" level="project" />
+    <orderEntry type="library" name="Gradle: io.projectreactor:reactor-core:3.5.4" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http2:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-http:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver-dns-native-macos:osx-x86_64:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver-dns:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-epoll:linux-x86_64:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler-proxy:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-handler:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.4" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-buffer:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-common:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver-dns-classes-macos:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-dns:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-resolver:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-classes-epoll:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-transport-native-unix-common:4.1.90.Final" level="project" />
+    <orderEntry type="library" name="Gradle: io.netty:netty-codec-socks:4.1.90.Final" level="project" />
+  </component>
+</module>

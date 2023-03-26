@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jboss.byteman:byteman-submit:4.0.20">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.byteman/byteman-submit/4.0.20/780f84e9bc507f14c18fd941142b5d7963966791/byteman-submit-4.0.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jboss.byteman/byteman-submit/4.0.20/2ae1cf2e89c9203ec02d4323ee1d4a3c4217ea56/byteman-submit-4.0.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

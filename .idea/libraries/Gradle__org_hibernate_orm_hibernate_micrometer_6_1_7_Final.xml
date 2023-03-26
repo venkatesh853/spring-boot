@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.hibernate.orm:hibernate-micrometer:6.1.7.Final">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.orm/hibernate-micrometer/6.1.7.Final/87261a3761c7245d6d2bd382583eea93e7e06063/hibernate-micrometer-6.1.7.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate.orm/hibernate-micrometer/6.1.7.Final/f5ba9a1bc6e7d17ce28fe856afa99ab2f88ea449/hibernate-micrometer-6.1.7.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

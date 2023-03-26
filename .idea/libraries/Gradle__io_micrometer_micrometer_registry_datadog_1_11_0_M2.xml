@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micrometer:micrometer-registry-datadog:1.11.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-datadog/1.11.0-M2/2a2dc2e5fd669ca6c709860a36929b50d3a8eac/micrometer-registry-datadog-1.11.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-datadog/1.11.0-M2/c5f8eb9340678e82430f21c7d8b9820b0cd69dff/micrometer-registry-datadog-1.11.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

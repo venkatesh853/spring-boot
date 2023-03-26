@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.opensaml:opensaml-xmlsec-api:4.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opensaml/opensaml-xmlsec-api/4.0.1/edb4365d3d183933cf0d0b31966ea352b8d20c60/opensaml-xmlsec-api-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opensaml/opensaml-xmlsec-api/4.0.1/7de3c1bb77d985685bfe8bc9e50d1acdb2cf240d/opensaml-xmlsec-api-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

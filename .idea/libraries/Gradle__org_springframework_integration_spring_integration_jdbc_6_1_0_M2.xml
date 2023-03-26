@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.integration:spring-integration-jdbc:6.1.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.integration/spring-integration-jdbc/6.1.0-M2/a05d586d449bc001d0ee90a7dd5ff79409d798cc/spring-integration-jdbc-6.1.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.integration/spring-integration-jdbc/6.1.0-M2/a53e7607e3369a111a95a0822959712f98d25da7/spring-integration-jdbc-6.1.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

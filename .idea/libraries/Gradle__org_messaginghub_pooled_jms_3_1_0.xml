@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.messaginghub:pooled-jms:3.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.messaginghub/pooled-jms/3.1.0/7f6318491a24657f30190a132f5e006b47e09543/pooled-jms-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.messaginghub/pooled-jms/3.1.0/3a0baab017df745b1b15dc1ab0d888108da6a312/pooled-jms-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

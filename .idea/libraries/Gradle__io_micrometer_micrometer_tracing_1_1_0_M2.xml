@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micrometer:micrometer-tracing:1.1.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-tracing/1.1.0-M2/8f8854e520fd7baddc129350cd6fd21748321e21/micrometer-tracing-1.1.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-tracing/1.1.0-M2/5944c2da1c7d8bf3c5be3ef7f513a4e9b50a2258/micrometer-tracing-1.1.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

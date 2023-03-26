@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.testcontainers:mongodb:1.17.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testcontainers/mongodb/1.17.6/af28b2fb94cd38be115a000bf515ae0f50195872/mongodb-1.17.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.testcontainers/mongodb/1.17.6/fb9ea5aff2bd98822c3561f4bc4a5b49ed689a66/mongodb-1.17.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

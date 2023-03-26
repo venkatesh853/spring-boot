@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.spring.javaformat:spring-javaformat-formatter-shaded:0.0.38">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.javaformat/spring-javaformat-formatter-shaded/0.0.38/5fa9c5a9f530e03ba1f7431066e97fc5dd89f69e/spring-javaformat-formatter-shaded-0.0.38.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.javaformat/spring-javaformat-formatter-shaded/0.0.38/c502b11e3bf9c40d809680e437a3b9bef5687fe6/spring-javaformat-formatter-shaded-0.0.38-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

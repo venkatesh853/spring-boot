@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.opensaml:opensaml-soap-impl:4.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opensaml/opensaml-soap-impl/4.0.1/38bfaf5fc189774e94ead218bd1c754da295c226/opensaml-soap-impl-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opensaml/opensaml-soap-impl/4.0.1/6f95bbda8d320ab9ba0c68f526d61f93b517f3a3/opensaml-soap-impl-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

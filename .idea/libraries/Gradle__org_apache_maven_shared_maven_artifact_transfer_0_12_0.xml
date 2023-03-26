@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.shared:maven-artifact-transfer:0.12.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/maven-artifact-transfer/0.12.0/b63d86f97cda1456dcbda78bf57de779c372addd/maven-artifact-transfer-0.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.shared/maven-artifact-transfer/0.12.0/9d753085805ce6abb1993d26e64c51d3a3f332de/maven-artifact-transfer-0.12.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

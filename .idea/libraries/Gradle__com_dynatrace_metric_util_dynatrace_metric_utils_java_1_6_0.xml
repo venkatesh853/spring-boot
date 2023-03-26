@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.dynatrace.metric.util:dynatrace-metric-utils-java:1.6.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dynatrace.metric.util/dynatrace-metric-utils-java/1.6.0/a988736aab51d86ab60ca834edf549597cc7ffb5/dynatrace-metric-utils-java-1.6.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.dynatrace.metric.util/dynatrace-metric-utils-java/1.6.0/482be41d8bc48a82108b2c3a023aa3414f779923/dynatrace-metric-utils-java-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

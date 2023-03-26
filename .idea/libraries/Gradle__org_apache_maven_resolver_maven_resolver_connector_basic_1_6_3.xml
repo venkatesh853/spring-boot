@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.maven.resolver:maven-resolver-connector-basic:1.6.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.resolver/maven-resolver-connector-basic/1.6.3/d1c8f8e30c2aae85330e21329d42d7e7f12a7cc3/maven-resolver-connector-basic-1.6.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.maven.resolver/maven-resolver-connector-basic/1.6.3/bded4faec2b8cd13d7276177cae976bcb1a2d709/maven-resolver-connector-basic-1.6.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

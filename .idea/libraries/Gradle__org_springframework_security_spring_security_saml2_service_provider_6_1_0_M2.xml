@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.security:spring-security-saml2-service-provider:6.1.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-saml2-service-provider/6.1.0-M2/6e83a60158491941567f9481d77b506dbbf364ac/spring-security-saml2-service-provider-6.1.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-saml2-service-provider/6.1.0-M2/2b8c73ce49c34af982fa93bfbc8cee32dfcdf6d3/spring-security-saml2-service-provider-6.1.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

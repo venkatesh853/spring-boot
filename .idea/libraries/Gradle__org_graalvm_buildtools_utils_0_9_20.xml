@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.graalvm.buildtools:utils:0.9.20">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.graalvm.buildtools/utils/0.9.20/e3685619fe8e273f48fd4050437fac98725101f6/utils-0.9.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.graalvm.buildtools/utils/0.9.20/406a1ffadc7ead02e95464db10c55dec452ec39e/utils-0.9.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tngtech.archunit:archunit:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tngtech.archunit/archunit/1.0.0/27ab69819bc5bb588e9881144763b9a3b1ed15a2/archunit-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tngtech.archunit/archunit/1.0.0/3264cd6216ce424243e980cda42090b262db8612/archunit-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

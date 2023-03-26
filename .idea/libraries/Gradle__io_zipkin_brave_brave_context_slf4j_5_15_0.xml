@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.zipkin.brave:brave-context-slf4j:5.15.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.zipkin.brave/brave-context-slf4j/5.15.0/296f4e06e77c840418a42e903944af7b5947e957/brave-context-slf4j-5.15.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.zipkin.brave/brave-context-slf4j/5.15.0/824bd03930e305feb9d24793a152b4e5cf645929/brave-context-slf4j-5.15.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

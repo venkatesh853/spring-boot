@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.signalfx.public:signalfx-java:1.0.29">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.signalfx.public/signalfx-java/1.0.29/898dffe6a32edfb0d5a30aa7db1a25f30aa42b54/signalfx-java-1.0.29.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.signalfx.public/signalfx-java/1.0.29/164568332937dd60d4f992c9daee579f78e6b2cc/signalfx-java-1.0.29-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

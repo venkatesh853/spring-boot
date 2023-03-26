@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.ws:spring-ws-test:4.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.ws/spring-ws-test/4.0.2/4192fb53cf54cd9298ba08bb7ef918ec299e321/spring-ws-test-4.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.ws/spring-ws-test/4.0.2/a9cb862f700baabd5f9f7be152776e03710f388f/spring-ws-test-4.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

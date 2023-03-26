@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.fasterxml.jackson.dataformat:jackson-dataformat-toml:2.14.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-toml/2.14.2/c40f33f9f727b2fd0ecfcb596b114358fd1f08b0/jackson-dataformat-toml-2.14.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.dataformat/jackson-dataformat-toml/2.14.2/5ce7c1cb5f8622d4be63219596adcbd717bc1869/jackson-dataformat-toml-2.14.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

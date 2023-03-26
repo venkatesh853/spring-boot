@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micrometer:micrometer-registry-kairos:1.11.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-kairos/1.11.0-M2/ea039653b1aff865b3f3482151a8bd6161143b1/micrometer-registry-kairos-1.11.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-kairos/1.11.0-M2/cbec7d32d1ae2986346c1b94a54e300d6acdc35c/micrometer-registry-kairos-1.11.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

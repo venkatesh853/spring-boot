@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micrometer:micrometer-tracing-reporter-wavefront:1.1.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-tracing-reporter-wavefront/1.1.0-M2/8bde173925e803bb4a5e6a23bdab941e8927c10d/micrometer-tracing-reporter-wavefront-1.1.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-tracing-reporter-wavefront/1.1.0-M2/b99dc25f5b25e778e5e07e6fe8548d0a9823e450/micrometer-tracing-reporter-wavefront-1.1.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.data:spring-data-redis:3.1.0-M3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/3.1.0-M3/f3f44113871f2a56a834356038ee69755859dd9f/spring-data-redis-3.1.0-M3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/3.1.0-M3/8c047a706a1b4002fe3dca02cd9b1780c6ef8fe3/spring-data-redis-3.1.0-M3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

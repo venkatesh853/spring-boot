@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.opentelemetry:opentelemetry-exporter-zipkin:1.24.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-zipkin/1.24.0/280c833f595a3eaa893335846acede503d5373c8/opentelemetry-exporter-zipkin-1.24.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-zipkin/1.24.0/559c0d77d2217ccd0e5925198646174bb3f1a5d4/opentelemetry-exporter-zipkin-1.24.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.netflix.spectator:spectator-ext-ipc:1.5.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.spectator/spectator-ext-ipc/1.5.4/d2b24097432696c5f60b3b3a403314263f8e4ab4/spectator-ext-ipc-1.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.netflix.spectator/spectator-ext-ipc/1.5.4/c558a48ebecfa6b5e0e75cbcff272cdba81a278a/spectator-ext-ipc-1.5.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

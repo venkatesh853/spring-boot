@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micrometer:context-propagation:1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/context-propagation/1.0.2/d717f2eb624e1222aaed7e0f96bb1d9443fa55a3/context-propagation-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/context-propagation/1.0.2/cf4d95a53ce498c516b29184b6fa8268fb4e69ba/context-propagation-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.graalvm.buildtools:native-gradle-plugin:0.9.20">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.graalvm.buildtools/native-gradle-plugin/0.9.20/f536a17b224f3ecbb0510e7fc13cdb00b035cdd0/native-gradle-plugin-0.9.20.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.graalvm.buildtools/native-gradle-plugin/0.9.20/662f14573d9ed97e1319af932cee0c7bdb207fa2/native-gradle-plugin-0.9.20-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

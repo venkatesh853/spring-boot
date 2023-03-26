@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.osgi:org.osgi.util.function:1.2.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.util.function/1.2.0/9fe65a02596b68e06aad340f41e33d53e3f7b8a7/org.osgi.util.function-1.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.util.function/1.2.0/abacd896f5877e91f309ddd05147958905f0424/org.osgi.util.function-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

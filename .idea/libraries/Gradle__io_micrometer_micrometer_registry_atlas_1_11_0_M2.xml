@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: io.micrometer:micrometer-registry-atlas:1.11.0-M2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-atlas/1.11.0-M2/1904c1398167d0cadfb42bfa9a33239078a4fa4a/micrometer-registry-atlas-1.11.0-M2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.micrometer/micrometer-registry-atlas/1.11.0-M2/12ebc7424245464310bba96313c2fb063b3bae57/micrometer-registry-atlas-1.11.0-M2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

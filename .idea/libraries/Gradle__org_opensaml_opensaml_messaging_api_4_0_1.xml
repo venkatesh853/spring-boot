@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.opensaml:opensaml-messaging-api:4.0.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opensaml/opensaml-messaging-api/4.0.1/eb9c9971f6bd2a6681a2a692a1f29a35874de389/opensaml-messaging-api-4.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.opensaml/opensaml-messaging-api/4.0.1/855379580e126002b1a5d4ea97402ec7f9e722be/opensaml-messaging-api-4.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

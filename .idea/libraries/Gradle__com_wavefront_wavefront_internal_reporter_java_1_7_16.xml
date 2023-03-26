@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.wavefront:wavefront-internal-reporter-java:1.7.16">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wavefront/wavefront-internal-reporter-java/1.7.16/135f9be9f149a6f0614db155ddf51e216d0d2891/wavefront-internal-reporter-java-1.7.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wavefront/wavefront-internal-reporter-java/1.7.16/195c79ca235ab3b8d57b89f403a5409b1479fd46/wavefront-internal-reporter-java-1.7.16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

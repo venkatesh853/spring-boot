@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.wavefront:wavefront-sdk-java:3.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wavefront/wavefront-sdk-java/3.1.0/56ee4bac09d53a52969a0e5484b1c7f8964f9b9b/wavefront-sdk-java-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wavefront/wavefront-sdk-java/3.1.0/bfd8539011c9d748b497d34deb2b5a81cf09bec5/wavefront-sdk-java-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
